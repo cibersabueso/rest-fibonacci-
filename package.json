@@ -1,0 +1,16 @@
+{
+    "name": "rest-fibonacci",
+    "version": "1.0.0",
+    "description": "Api rest Fibonacci Ultra basica",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app",
+        "dev": "nodemon app",
+        "test": "test"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
